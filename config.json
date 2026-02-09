@@ -1,0 +1,28 @@
+{
+    "url": "https://my.irancell.ir/api/gift/v1/refer_a_friend",
+    "auth": {
+        "client_id": "4725a997e94b372b1c26e425086f4a17",
+        "client_secret": "7e9379a4d444a3c21cf28da6a032154dc4b644eba523e7684f71818dec3beeb7",
+        "phone_number": "989046699095",
+        "password": "Amir1383amir!",
+        "installation_id": "1216ed29-501c-40c8-9362-eebca7f07672"
+    },
+    "headers": {
+        "accept": "application/json, text/plain, */*",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "accept-language": "fa",
+        "connection": "keep-alive",
+        "content-type": "application/json",
+        "authorization": "eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJmaXJzdF9uYW1lIjoiXHUwNjQ1XHUwNjJkXHUwNjQ1XHUwNjJmXHUwNjJjXHUwNjQ4XHUwNjI3XHUwNjJmIiwibGFzdF9uYW1lIjoiXHUwNjQ2XHUwNjJjXHUwNjQxXHUwNjRhIiwiZW1haWwiOm51bGwsInNlcnZpY2VfY29kZSI6IkdTTSIsInNpbV90eXBlIjoiZmQiLCJvcGVyYXRpb25fc3RhdHVzIjoiYWN0aXZlIiwicHJvZmlsZV90eXBlIjoiaW5kaXZpZHVhbCIsInByZWZlcnJlZF9sYW5ndWFnZSI6ImZhIiwiY3VzdG9tZXJfdHlwZSI6InByZXBhaWQiLCJjb3dfZGF0ZSI6bnVsbCwicGhvbmVfbnVtYmVyIjoiOTg5MDQ2Njk5MDk1Iiwic3ViIjoiOTg5MDQ2Njk5MDk1IiwiaW5zdGFsbGF0aW9uX2lkIjoiMTIxNmVkMjktNTAxYy00MGM4LTkzNjItZWViY2E3ZjA3NjcyIiwiY2xpZW50X2lkIjoiNDcyNWE5OTdlOTRiMzcyYjFjMjZlNDI1MDg2ZjRhMTciLCJjbGllbnRfbmFtZSI6IndlYiIsInNqdGkiOiIxNjZhMDM3MC00YjVmLTRhNDQtOTRjNi0xOTgyYzU2MTQyYmMiLCJtdG5pIjp7ImZpcnN0X25hbWUiOiJcdTA2NDVcdTA2MmRcdTA2NDVcdTA2MmZcdTA2MmNcdTA2NDhcdTA2MjdcdTA2MmYiLCJsYXN0X25hbWUiOiJcdTA2NDZcdTA2MmNcdTA2NDFcdTA2NGEiLCJzZXJ2aWNlX2NvZGUiOiJHU00iLCJzaW1fdHlwZSI6ImZkIiwicmVnaXN0cmF0aW9uX2RhdGUiOiIyMDIwLTEwLTA1IDExOjUzOjE2Iiwib3BlcmF0aW9uX3N0YXR1cyI6ImFjdGl2ZSIsInByb2ZpbGVfdHlwZSI6ImluZGl2aWR1YWwiLCJjdXN0b21lcl90eXBlIjoicHJlcGFpZCIsImNvd19kYXRlIjpudWxsfSwiaWF0IjoxNzcwNTU1MDAxLCJleHAiOjE3NzA2MjcwMDF9.pw8xa17I8zq_lDd2kXIE4h632W-U3vbJgxaTB7Xw-ecZ1uX8yC6NroSE75vfD_-ciJk49i3Jne5XymsEZ_LOyr7LieYAuS-jmOISKKp72EZUuzQjSkFCqu7vdjwy524-7jIxSalux5T53mswUySj9bHjUWQQiIUNLAX5CvUtihvG8PcvoWvVI0FHSGGxxrm3xCkYaDFfChuBpZ5bO7guX5zxB2T05ZXrrLpwKaoNHihgildlocc6pJgmZFcMNzonB-NLoSHLou2l4OD6gpMzJn6vG9tILcui0Oh3vTB6ru6WWtCmChUhqlZHpDPWLytwk_vMCpWq5k5IO2zfAD4skV748jZWl022Tc7o-V82g6l4ZQTy4t1KKiiGGYavQKBIsWi-3fJFyemAZWZmHE45TKNdmFEgEooUv7lS6-kcqyDV3egJq_-2dOR0FRSqJVq26GXWd5kiF5PQ8GB6iIt4AnZVKmi54Bz-ThX1hjxCHs9h0EZQI4oWLEbc9VgFtpSqomZTglJwe6hvu6vIS75h_5abqzcdSBH3JwJpfi5LU3kbLt8fGg-XjqK9Eq9iLgMqmb5tLFgWrLFNVWI_Y9kSQclTN9AdLN90yUgQtmvyg-SdZS8x-U47f9ASxaJ26kvsdgWXHWzkMQWR2eAlmPTTcjAqSgDzS1jcRxHPBq9qctc",
+        "origin": "https://my.irancell.ir",
+        "referer": "https://my.irancell.ir/invite/confirm",
+        "sec-ch-ua": "\"Google Chrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "same-origin",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+        "x-app-version": "9.68.1"
+    }
+}
